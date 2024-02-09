@@ -34,3 +34,32 @@ p {
     font-size: 18px;
     line-height: 18px;
 }
+.header {
+        font-size: 2em;
+        margin: 20px 0;
+    }
+    .content {
+        margin: 20px;
+    }
+    .content img {
+        max-width: 100%;
+        height: auto;
+    }
+    .btn {
+        display: inline-block;
+        background-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        margin: 20px 0;
+        border-radius: 5px;
+    }
+    .footer {
+        background-color: #f0f0f0;
+        padding: 10px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+    }
